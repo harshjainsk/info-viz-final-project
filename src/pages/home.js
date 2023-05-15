@@ -46,24 +46,17 @@ function Home(){
           18CSE301J INFORMATION VISUALIZATION
         </div>
         <div className=" text-3xl font-bold my-1">
-          Harsh Kumar Jain - RA2011026010141
+          Harsh Kumar Jain
         </div>
-        <div className=" w-full h-full flex flex-col items-center my-4">
-          <div className=" text-2xl font-bold my-1">
-            About The Project
-          </div>
-          <div className=" my-1 text-base">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque turpis ligula, quis finibus risus commodo ac. Aenean facilisis sit amet ante eu feugiat. Duis nec rhoncus ligula, ac pharetra justo. Donec scelerisque, nibh vel tristique dictum, ante leo laoreet magna, eu sagittis lorem justo ac erat. Nullam elementum lacus erat, vitae finibus dui suscipit a. Nam varius elementum massa sit amet semper. Pellentesque at est sit amet justo tristique luctus. Nam pellentesque sagittis tempor. Suspendisse potenti. Donec sed interdum nibh. Etiam viverra nulla quis sem venenatis, eu commodo diam feugiat. Aenean condimentum felis odio. Donec consequat nibh quam, in ullamcorper est porta nec.Etiam a ipsum sollicitudin, vulputate metus at, aliquet quam. Nunc ac mauris ultrices, gravida nibh pretium, laoreet neque. Aliquam metus tortor, vestibulum eget lacus egestas, euismod congue lectus. Nulla pulvinar iaculis mauris eget sodales. Pellentesque et justo vel ex semper consequat. Cras at ipsum ut odio pellentesque volutpat. Mauris dictum aliquam velit quis porttitor. Curabitur suscipit in leo ut vestibulum. In lobortis pharetra elit, sed volutpat enim venenatis laoreet. Nam ligula ligula, suscipit et dolor eu, placerat tristique lectus. Ut eget gravida massa, et bibendum massa. Aliquam vitae varius nisl. Nulla non pharetra sapien. Integer blandit velit nisl, nec convallis turpis imperdiet in. Pellentesque in enim sit amet dolor mollis consequat vitae non dui. Sed id auctor risus, at tristique justo.
-          </div>
+        <div className=" text-3xl font-bold my-1">
+          RA2011026010141
         </div>
-        <div className=" text-4xl font-bold my-4">
-          Assignments
-        </div>
+        
         <div className=" w-full h-full flex flex-col items-center my-6">
           <div className=" text-3xl font-bold my-2">Tableau Project</div>
           <div className=" w-full grid grid-cols-7 my-2">
-            <div className=" w-full h-[220px] col-span-4">
-              <div className=" w-full text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque turpis ligula, quis finibus risus commodo ac. Aenean facilisis sit amet ante eu feugiat. Duis nec rhoncus ligula, ac pharetra justo. Donec scelerisque, nibh vel tristique dictum, ante leo laoreet magna, eu sagittis lorem justo ac erat. Nullam elementum lacus erat, vitae finibus dui suscipit a. Nam varius elementum massa sit amet semper. Pellentesque at est sit amet justo tristique luctus. Nam pellentesque sagittis tempor. Suspendisse potenti. Donec sed interdum nibh. Etiam viverra nulla quis sem venenatis, eu commodo diam feugiat. Aenean condimentum felis odio. Donec consequat nibh quam, in ullamcorper est porta nec.</div>
+            <div className=" w-full h-[300px] col-span-4">
+              <div className=" w-full text-lg">Tableau analysis of Airbnb data involves using Tableau's tools and functionalities to explore and gain insights from the dataset. It includes data preparation, creating visualizations, and deriving meaningful findings. The analysis typically focuses on various aspects such as location, pricing, reviews, and time-based trends. With Tableau, you can create interactive maps to visualize the spatial distribution of Airbnb listings and identify popular areas. Pricing analysis helps understand the relationship between pricing and factors like property type and amenities. By analyzing customer reviews and ratings, you can gauge satisfaction levels and identify common themes. Time-based analysis uncovers seasonal variations and booking patterns. The goal is to derive actionable insights and present them effectively, using Tableau's storytelling capabilities to create a narrative flow. Tableau analysis of Airbnb data empowers decision-making, informs strategies, and enhances understanding of the Airbnb marketplace.</div>
              
             </div>
             <div className=" w-full h-[200px] col-span-3 items-center">
@@ -83,7 +76,7 @@ function Home(){
         <div className=" w-full h-full flex flex-col items-center my-6">
           <div className=" text-3xl font-bold my-2">Gephi Project</div>
           <div className=" w-full grid grid-cols-7 my-2">
-            <div className=" w-full h-[220px] col-span-4  text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque turpis ligula, quis finibus risus commodo ac. Aenean facilisis sit amet ante eu feugiat. Duis nec rhoncus ligula, ac pharetra justo. Donec scelerisque, nibh vel tristique dictum, ante leo laoreet magna, eu sagittis lorem justo ac erat. Nullam elementum lacus erat, vitae finibus dui suscipit a. Nam varius elementum massa sit amet semper. Pellentesque at est sit amet justo tristique luctus. Nam pellentesque sagittis tempor. Suspendisse potenti. Donec sed interdum nibh. Etiam viverra nulla quis sem venenatis, eu commodo diam feugiat. Aenean condimentum felis odio. Donec consequat nibh quam, in ullamcorper est porta nec.</div>
+            <div className=" w-full h-[220px] col-span-4  text-lg">Gephi is an open-source software tool designed for network analysis and visualization. It is built using Java on the NetBeans platform, and provides a range of features for analyzing and visualizing complex networks. With Gephi, users can explore and understand networks through interactive visualizations, and can apply a range of algorithms and metrics to gain insights into the structure and behavior of networks. Its open-source nature also enables customization and extensibility by developers.</div>
             <div className=" w-full h-[200px] col-span-3 items-center">
               <img className=" object-contain  h-[200px] w-full" src={photo2} alt="" />
             </div>
@@ -97,8 +90,8 @@ function Home(){
         <div className=" w-full h-full flex flex-col items-center my-6">
           <div className=" text-3xl font-bold my-2">Python Project</div>
           <div className=" w-full grid grid-cols-7 my-2">
-            <div className=" w-full h-[220px] col-span-4">
-              <div className=" w-full text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque turpis ligula, quis finibus risus commodo ac. Aenean facilisis sit amet ante eu feugiat. Duis nec rhoncus ligula, ac pharetra justo. Donec scelerisque, nibh vel tristique dictum, ante leo laoreet magna, eu sagittis lorem justo ac erat. Nullam elementum lacus erat, vitae finibus dui suscipit a. Nam varius elementum massa sit amet semper. Pellentesque at est sit amet justo tristique luctus. Nam pellentesque sagittis tempor. Suspendisse potenti. Donec sed interdum nibh. Etiam viverra nulla quis sem venenatis, eu commodo diam feugiat. Aenean condimentum felis odio. Donec consequat nibh quam, in ullamcorper est porta nec.</div>
+            <div className=" w-full h-[350px] col-span-4">
+              <div className=" w-full text-lg">Python data analysis of Adani stock data involves utilizing Python libraries like pandas, NumPy, and matplotlib to explore and analyze historical stock data of Adani Group companies. The process typically includes data loading, cleansing, and manipulation to ensure data quality. Using pandas, you can calculate various financial metrics such as daily returns, moving averages, and trading volume. Exploratory data analysis techniques can be applied to understand trends, patterns, and relationships within the data. Visualizations created with matplotlib can help visualize stock price movements, trading volume, and other relevant information. Statistical analysis and time series modeling can be performed to identify seasonality, trends, and potential forecasting. Python's rich ecosystem of libraries enables the application of machine learning techniques for predictive modeling and risk analysis. The goal is to derive insights that aid investment decisions, risk management, and portfolio optimization. Python data analysis of Adani stock data provides valuable information for investors, analysts, and traders, facilitating data-driven strategies in the stock market.</div>
               
             </div>            
             <div className=" w-full h-[200px] col-span-3 items-center">
@@ -114,7 +107,7 @@ function Home(){
         <div className=" w-full h-full flex flex-col items-center my-6">
           <div className=" text-3xl font-bold my-2">D3.js Project</div>
           <div className=" w-full grid grid-cols-7 my-2">
-            <div className=" w-full h-[220px] col-span-4 text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras scelerisque turpis ligula, quis finibus risus commodo ac. Aenean facilisis sit amet ante eu feugiat. Duis nec rhoncus ligula, ac pharetra justo. Donec scelerisque, nibh vel tristique dictum, ante leo laoreet magna, eu sagittis lorem justo ac erat. Nullam elementum lacus erat, vitae finibus dui suscipit a. Nam varius elementum massa sit amet semper. Pellentesque at est sit amet justo tristique luctus. Nam pellentesque sagittis tempor. Suspendisse potenti. Donec sed interdum nibh. Etiam viverra nulla quis sem venenatis, eu commodo diam feugiat. Aenean condimentum felis odio. Donec consequat nibh quam, in ullamcorper est porta nec.</div>
+            <div className=" w-full h-[220px] col-span-4 text-lg">D3 (Data-Driven Documents) is a JavaScript library for data visualization that provides a range of tools for creating dynamic, interactive visualizations for the web. D3 enables the creation of a wide range of visualizations, including line charts, scatter plots, and heat maps, and provides a range of customization options for creating bespoke designs. Its emphasis on data-driven design makes it an essential tool for creating data visualizations that communicate insights effectively.</div>
             <div className=" w-full h-[200px] col-span-3 items-center">
               <img className=" object-contain  h-[200px] w-full" src={photo4} alt="" />
             </div>
