@@ -7,8 +7,8 @@ function Page2(){
             <h2 className="text-2xl">
 		Gephi Project
 	</h2>
-            <img id="data-1" src={photo1} ></img>
-    <img id="data-2" src={photo2}></img>        
+            <img id="data-1" src={photo1} alt="" ></img>
+    <img id="data-2" src={photo2} alt=""></img>        
     <style>{`
 		#data-1{
 		width:90vw;

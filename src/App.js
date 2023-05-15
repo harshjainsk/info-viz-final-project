@@ -15,7 +15,7 @@ function App() {
     <>
     <BrowserRouter>
         <Routes>
-        <Route exact path="/" element={<Home/>} />
+        <Route exact path="/info-viz-final-project" element={<Home/>} />
         <Route exact path="/assignment1" element={<Page1/>} />
         <Route exact path="/assignment2" element={<Page2/>} />
        
